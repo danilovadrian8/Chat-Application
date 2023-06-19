@@ -1,0 +1,6 @@
+#chat-window {
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: scroll;
+}
